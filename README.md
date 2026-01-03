@@ -1,0 +1,1 @@
+# koreader-kindle-sync.koplugin
